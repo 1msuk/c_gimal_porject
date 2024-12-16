@@ -1,4 +1,12 @@
-```C
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -119,4 +127,3 @@ int main() {
     printf("게임을 종료합니다.\n");
     return 0;
 }
-```
