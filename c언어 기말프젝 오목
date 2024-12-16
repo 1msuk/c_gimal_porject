@@ -1,13 +1,5 @@
 ```c
 #include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
-```
-
-#include <stdio.h>
 #include <stdlib.h>
 
 #define SIZE 15      // 오목판 크기 (15x15)
@@ -127,3 +119,4 @@ int main() {
     printf("게임을 종료합니다.\n");
     return 0;
 }
+```
